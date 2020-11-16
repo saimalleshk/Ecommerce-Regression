@@ -2,7 +2,7 @@
 
 ## Project Description:
 
-You got some contract with an Ecommerce company based in New York City that sells clothing online but also have in-store style and clothing advice sessions.
+An Ecommerce company based in New York City that sells clothing online but also have in-store style and clothing advice sessions.
 
 Customers come in to the store, have sessions/meetings with a personal stylist,that they can go home and order either on a mobile app or website for the clothes they want.
 
@@ -40,7 +40,7 @@ Let's evaluate our model performance by calculating the residual sum of squares 
 
 ## Residuals
 
-You should have gotten a very good model with a good fit. Lets quickly explore the residuals to make sure everything was okay with our data.
+Once we got a very good model with a good fit. Lets quickly explore the residuals to make sure everything was okay with our data.
 
 ## Conclusion
 
