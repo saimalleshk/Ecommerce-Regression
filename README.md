@@ -1,6 +1,7 @@
 # Ecommerce-Regression
 
 ## Project Description:
+(DATA from Kaggle)
 
 An Ecommerce company based in New York City that sells clothing online but also have in-store style and clothing advice sessions.
 
